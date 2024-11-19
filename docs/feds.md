@@ -23,6 +23,7 @@ FED 前端导航
 ---
 
 [Webpack](http://webpack.github.io/)<!--rehype:target=_blank&style=background: rgb(107 148 216/var(\-\-bg\-opacity));-->
+[rsbuild](https://rsbuild.dev/zh/)<!--rehype:target=_blank&style=background: rgb(108 148 216/var(\-\-bg\-opacity));-->
 [NPM](https://www.npmjs.com/)<!--rehype:target=_blank&style=background: rgb(203 8 1/var(\-\-bg\-opacity));-->
 [Yarn](https://yarnpkg.com/zh-Hans/)<!--rehype:target=_blank&style=background: rgb(33 136 182/var(\-\-bg\-opacity));-->
 [pnpm](https://pnpm.io/)<!--rehype:target=_blank&style=background: rgb(246 146 32/var(\-\-bg\-opacity));-->
